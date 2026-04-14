@@ -25,7 +25,7 @@ Four LDR sensors detect light intensity. The Arduino compares the values from al
 
 ![Solar Tracker - Wiring View][(Images/Solar_Tracker.ino/solar-tracker-1.jpg.jpeg](https://github.com/fahim120811/Solar--tracking--system-/blob/main/Images/Solar_Tracker.ino/solar-tracker-1.jpg.jpeg))
 
-![Solar Tracker - Top View](images/solar-tracker-2.jpg)
+![Solar Tracker - Top View][(images/solar-tracker-2.jpg)](https://github.com/fahim120811/Solar--tracking--system-/blob/main/Images/Solar_Tracker.ino/solar-tracker-2.jpg.jpeg)
 
 ![Solar Tracker - Full Setup](images/solar-tracker-3.jpg)
 
